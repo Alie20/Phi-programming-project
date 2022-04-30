@@ -1,0 +1,9 @@
+Smart robotic arm for sorting objects
+A smart robotic arm for sorting objects!
+Imagine a robot arm equipped an AI camera that can detect objects. This arm objective is to pick objects, identify them, sort them, and show information about them. To make it simple: Assume we have:
+Shapes: Spheres & Boxes.
+Colors: Red, Yellow, & Green.
+Output: 
+	1- Total number of each of Boxes, Spheres, Red, Yellow, & Green objects. 
+	2- Volume of the shapes.
+	3- Recommended box size to fit all objects. 
