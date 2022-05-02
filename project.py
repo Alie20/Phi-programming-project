@@ -36,7 +36,7 @@ book = Workbook()
 sheet = book.active
 
 # first row in the new worksheet that provide all information
-rows = ['shape','color','Diemnsion cm','Number of objects','volume of Shape (cm3)','Volume of box (cm3)','Maximum number of objects in one box','Total no.of box']
+rows = ['shape','color','Dimension cm','Number of objects','volume of Shape (cm3)','Volume of box (cm3)','Maximum number of objects in one box','Total number.of box']
 sheet.append(rows)
 
 # count the total no. of box required 
